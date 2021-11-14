@@ -14,4 +14,4 @@ Steps for windows: http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.p
 ..
 
 # Thanks to
-..
+Lazy Foo' Productions and their tutorials: http://lazyfoo.net/tutorials/SDL/index.php#Hello%20SDL
