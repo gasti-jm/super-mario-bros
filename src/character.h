@@ -134,7 +134,7 @@ class MapOBJ{
         float MAX_VEL_X = 3, MAX_VEL_Y = 5;
         grh* grafico;
         int posMapX, posMapY, typeOBJ, evolution, pointsOBJ;
-        float PixelOffSetX, PixelOffSetY, oVelX, oVelY, PointsPixelX, PointsPixelY;; // objetos con movimiento como el hongo, estrella, etc.
+        float PixelOffSetX, PixelOffSetY, oVelX, oVelY, PointsPixelX, PointsPixelY; // objetos con movimiento como el hongo, estrella, etc.
         Uint32 ticks = 0;
         bool inEffect, DaCoinsPoints, isSpawned, DioUP;
 
