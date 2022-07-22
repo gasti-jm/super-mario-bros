@@ -15,11 +15,7 @@ You must also install and include the SDL2 library along with SDL_Image and SDL_
 Steps for windows: http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.php
 
 # Binary Files
-If you want to continue with the project, and you want to add more maps, index more graphics, bodys, etc.
-
-You are going to need this:
-
-https://github.com/gasti-jm/compressor-SMarioBrosFiles
+If you want to continue with the project and add more maps, index more charts, bodies, etc. You should use the compressor found in the "compressor" folder
 
 # Images
 ![1](https://user-images.githubusercontent.com/82490615/141695505-c4091ea2-2b91-4fbc-ba62-76629805a416.png)
