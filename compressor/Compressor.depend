@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1635583119 source:c:\users\gasty\desktop\compressor\compressor\src\main.cpp
+	<iostream>
+	"compress.h"
+
+1635583074 c:\users\gasty\desktop\compressor\compressor\src\compress.h
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	"structs.h"
+
+1635582227 c:\users\gasty\desktop\compressor\compressor\src\structs.h
+
+1635583182 source:c:\users\gasty\desktop\compressor\compressor\src\compress.cpp
+	"compress.h"
+
+1635681042 source:c:\users\gasty\desktop\mario bros\resources\compressor\compressor\src\compress.cpp
+	"compress.h"
+
+1635679701 c:\users\gasty\desktop\mario bros\resources\compressor\compressor\src\compress.h
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	"structs.h"
+
+1635582227 c:\users\gasty\desktop\mario bros\resources\compressor\compressor\src\structs.h
+
+1635672024 source:c:\users\gasty\desktop\mario bros\resources\compressor\compressor\src\main.cpp
+	<iostream>
+	"compress.h"
+
+1635672024 source:d:\proyectos\mis proyectos\mario bros\resources\compressor\compressor\src\main.cpp
+	<iostream>
+	"compress.h"
+
+1635679701 d:\proyectos\mis proyectos\mario bros\resources\compressor\compressor\src\compress.h
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	"structs.h"
+
+1649634941 d:\proyectos\mis proyectos\mario bros\resources\compressor\compressor\src\structs.h
+
+1649637956 source:d:\proyectos\mis proyectos\mario bros\resources\compressor\compressor\src\compress.cpp
+	"compress.h"
+
+1649638208 source:c:\users\gasty\desktop\compressor\src\compress.cpp
+	"compress.h"
+
+1635679701 c:\users\gasty\desktop\compressor\src\compress.h
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	"structs.h"
+
+1649634941 c:\users\gasty\desktop\compressor\src\structs.h
+
+1635672024 source:c:\users\gasty\desktop\compressor\src\main.cpp
+	<iostream>
+	"compress.h"
+
