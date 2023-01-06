@@ -13,9 +13,9 @@
 
 # How to compile
 <p>
-  <a href = "https://www.codeblocks.org/" target="_blank">Code::Blocks</a> is needed (although with Visual Studio 2022, DevC++ or any other IDE you can use it, if you know how to build the project). <br/><br/>
+  <a href="https://www.codeblocks.org/" target="_blank">Code::Blocks</a> is needed (although with <a href="https://visualstudio.microsoft.com/es/" target="_blank">Visual Studio 2022</a>, <a href="https://www.bloodshed.net/" target="_blank">DevC++</a> or any other IDE you can use it, if you know how to build the project). <br/><br/>
   You must also install and include the SDL2 library along with SDL_Image and SDL_Mixer. <br/>
-  Steps for windows: <a href = "http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.php" target="_blank">Lazy Foo tutorials: Setting up SDL on Windows</a>
+  Steps for windows: <a href="http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.php" target="_blank">Lazy Foo tutorials: Setting up SDL on Windows</a>
 </p>
 
 # Binary Files
