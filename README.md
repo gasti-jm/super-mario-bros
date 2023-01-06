@@ -1,18 +1,22 @@
 # Super Mario Bros C++ DEMO!
-<a target="_blank"><img src="https://img.shields.io/badge/Build%20for-Windows_x64-43ca1f.svg"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Made%20in-Code::Blocks-e92727.svg"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-e98227.svg"></img></a>
+<div align = "center">
+<img src="https://img.shields.io/badge/Build%20for-Windows_x64-43ca1f.svg"/></img>
+<img src="https://img.shields.io/badge/Made%20in-Code::Blocks-e92727.svg"></img>
+<img src="https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-e98227.svg"></img>
+</div>
+<br/>
 
-Super Mario Bros in C++ under SDL2. 
-
-This game is a DEMO with his first world!
+<p>
+  Super Mario Bros in C++ under SDL2. <br/>
+  This game is a DEMO with his first world!
+</p>
 
 # How to compile
-Code::Blocks is needed (although with Visual Studio 2022, DevC++ or any other IDE you can use it, if you know how to build the project).
-
-You must also install and include the SDL2 library along with SDL_Image and SDL_Mixer.
-
-Steps for windows: http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.php
+<p>
+  <a href = "https://www.codeblocks.org/" target="_blank">Code::Blocks</a> is needed (although with Visual Studio 2022, DevC++ or any other IDE you can use it, if you know how to build the project). <br/><br/>
+  You must also install and include the SDL2 library along with SDL_Image and SDL_Mixer. <br/>
+  Steps for windows: <a href = "http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/index.php" target="_blank">Lazy Foo tutorials: Setting up SDL on Windows</a>
+</p>
 
 # Binary Files
 If you want to continue with the project and add more maps, index more charts, bodies, etc. You should use the compressor found in the "compressor" folder
