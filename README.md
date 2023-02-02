@@ -1,8 +1,8 @@
 # Super Mario Bros C++ DEMO!
 <div align = "center">
-<img src="https://img.shields.io/badge/Build%20for-Windows_x64-43ca1f.svg"/></img>
-<img src="https://img.shields.io/badge/Made%20in-Code::Blocks-e92727.svg"></img>
-<img src="https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-e98227.svg"></img>
+<img src="https://img.shields.io/badge/Build%20for-Windows_x64-43ca1f.svg?style=flat-square"/></img>
+<img src="https://img.shields.io/badge/Made%20in-Code::Blocks-e92727.svg?style=flat-square"></img>
+<img src="https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-e98227.svg?style=flat-square"></img>
 </div>
 <br/>
 
